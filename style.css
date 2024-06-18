@@ -1,0 +1,83 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/009/496/453/non_2x/abstract-horizontal-background-with-colorful-waves-trendy-illustration-in-style-retro-60s-70s-vector.jpg");
+    background-color: pink;
+
+}
+.title{
+   
+    text-align: center;
+    padding: 20px;
+    font-family: 'Georgia';
+    color:rgb(64, 1, 80);
+    font-size: 35px;
+    text-decoration: wavy underline;
+}
+.links{
+    position: absolute;
+  top: 0px;
+  right: 100;
+    background-color: paleturquoise;
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+  border: 5px solid white;
+    text-align:center;
+    font-family: 'Verdana';
+    color: steelblue;
+    font-size: 15px;
+}
+
+.about-me p:first-child::first-line{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'georgia';
+}
+.about-me {
+    background-color: rgb(255, 255, 171);
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    border: 5px solid white;
+      text-align:center;
+      font-family: 'Verdana';
+      color: rgb(0, 16, 104);
+      font-size: 15px; 
+}
+.facts p:first-child::first-line{
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Georgia';
+}
+.facts {
+    background-color: palegreen;
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    border: 5px solid white;
+      text-align:left;
+      font-family: 'Verdana';
+      color: rgb(80, 0, 80);
+      font-size: 15px;   
+}
+.contact-me {
+    background-color: rgb(179, 230, 253);
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    border: 5px solid white;
+      text-align:left;
+      font-family: 'Verdana';
+      color: rgb(71, 1, 54);
+      font-size: 15px;   
+}
+.instagram-gmail {
+    background-color: rgb(221, 117, 253);
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+    border: 5px solid white;
+      text-align:left;
+      font-family: 'Verdana';
+      color: rgb(2, 1, 71);
+      font-size: 15px;   
+}
